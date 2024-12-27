@@ -1,0 +1,5 @@
+x=float(input("enter the decimal value:"))
+print(x)
+print(int(x))
+print(str(x))
+print(5*x)
